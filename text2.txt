@@ -1,0 +1,52 @@
+#include<stdio.h>
+#include<conio.h>
+/
+*
+/
+*
+d
+f
+g
+d
+f
+g
+d d
+f
+g
+d
+f
+g
+*
+/ i
+n
+t
+s[
+3
+5
+]
+=
+"
+g
+h
+";
+v
+o
+i
+d m
+ai
+n
+()
+{
+i
+n
+t
+a;
+/
+*
+char c[10]="msrit",f[]="lk;
+*/strlen("hjkl);
+/*dgdfgdfg*/
+a=a+b; /*
+fsdgdgds
+sdgfsd sdfsdf
+}

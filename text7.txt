@@ -1,0 +1,12 @@
+#include<stdio.h>
+void main(){
+    if(1>2)){
+        return true;
+    }
+    else if((2<1){
+        return false;
+    }
+    if(0 == 0){
+        return true;
+    }
+}
